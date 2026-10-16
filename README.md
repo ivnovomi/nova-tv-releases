@@ -11,7 +11,7 @@
 TV en directo con guía, tus apps de streaming, tus juegos en modo consola y el mando en el móvil.
 
 [![Descargar para Windows](https://img.shields.io/badge/Descargar-Windows%2010%20%7C%2011-6e6cff?style=for-the-badge&logo=windows11&logoColor=white)](../../releases/latest)
-[![Última versión](https://img.shields.io/github/v/release/ivnovomi/nova-tv-releases?style=for-the-badge&label=versi%C3%B3n&color=0b1124&labelColor=0b1124)](../../releases/latest)
+[![Última versión](https://img.shields.io/github/v/release/ivnovomi/nova-tv-releases?style=for-the-badge&label=versi%C3%B3n&color=0b1124&labelColor=0b1124)](https://github.com/ivnovomi/nova-tv-releases/releases/latest)
 
 </div>
 
